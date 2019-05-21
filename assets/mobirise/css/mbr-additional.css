@@ -3,10 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
 
-
-
-
-
 body {
   font-family: Poppins;
   font-style: normal;
@@ -43,6 +39,7 @@ body {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
+
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -162,7 +159,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #bc1f60 !important;
+  background-color: #e64456 !important;
 }
 .bg-success {
   background-color: #365c9a !important;
@@ -179,8 +176,8 @@ body {
 .btn-primary,
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #bc1f60 !important;
-  border-color: #bc1f60 !important;
+  background-color: #e64456 !important;
+  border-color: #e64456 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -361,14 +358,14 @@ body {
 .btn-primary-outline:focus,
 .btn-primary-outline.focus {
   color: #ffffff !important;
-  background-color: #bc1f60;
-  border-color: #bc1f60;
+  background-color: #e64456;
+  border-color: #e64456;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bc1f60 !important;
-  border-color: #bc1f60 !important;
+  background-color: #e64456 !important;
+  border-color: #e64456 !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active,
@@ -505,7 +502,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #bc1f60 !important;
+  color: #e64456 !important;
 }
 .text-secondary {
   color: #4c8c4a !important;
@@ -586,8 +583,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #bc1f60;
-  border-color: #bc1f60;
+  background-color: #e64456;
+  border-color: #e64456;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -604,7 +601,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #bc1f60;
+  color: #e64456;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -725,7 +722,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #bc1f60;
+  border-color: #e64456;
   border-width: 3px;
 }
 ul,
@@ -790,7 +787,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #bc1f60;
+  border-color: #e64456;
   color: #232323;
   cursor: pointer;
   border-radius: 100px;
@@ -802,7 +799,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #bc1f60;
+  background: #e64456;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -902,7 +899,7 @@ body {
 .cid-ra8yumJDUA {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #bc1f60;
+  background-color: #e64456;
 }
 .cid-ra8yumJDUA *:focus {
   outline: none;
@@ -1152,7 +1149,7 @@ body {
   overflow: hidden !important;
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/alireza-etemadi-422369-unsplash-2000x1328.jpg");
+  background-image: url("../../../assets/images/portfolio/DSC5123.JPG");
 }
 .cid-ra8rh13W1t .container-fluid {
   padding: 0 3rem;
